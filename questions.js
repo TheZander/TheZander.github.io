@@ -1,42 +1,51 @@
 questions = [
     {
-        "question": "We should consider returning to Zenny-Piperism",
+        "question": "Communism or Socialism are good ideoligies",
         "effect": {
-            "econ": 3,
-            "dipl": 1,
-            "govt": 10,
-            "scty": 2
+            "econ": 5,
+            "dipl": 0,
+            "govt": 1,
+            "scty": 0
         }
     },
     {
-        "question": "There are too many parties.",
+        "question": "Zenny Piperism should return to wintercrest",
+        "effect": {
+            "econ": 1,
+            "dipl": 2,
+            "govt": 5,
+            "scty": 1
+        }
+    },
+    {
+        "question": "We have too many parties",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "govt": -1,
+            "scty": 5
         }
     },
     {
-        "question": "We should leave NS-Left",
+        "question": "We should participate in wider nationstates more",
         "effect": {
-            "econ": -1,
-            "dipl": -5,
+            "econ": 0,
+            "dipl": 5,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Socialism or Communism are benifital Ideoligies",
+        "question": "Capitalism is a good ideolegy ",
         "effect": {
-            "econ": 10,
+            "econ": -5,
             "dipl": 0,
-            "govt": 0,
+            "govt": -1,
             "scty": 0
         }
     },
     {
-        "question": "The Chair of Presidential Security should not exist as a role",
+        "question": "We should seek new ideas for wintercrest",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -45,25 +54,16 @@ questions = [
         }
     },
     {
-        "question": "The Govnermnet is currently functional",
-        "effect": {
-            "econ": 0,
-            "dipl": -1,
-            "govt": 3,
-            "scty": -2
-        }
-    },
-    {
-        "question": "We need a new constitution",
+        "question": "Having many political parties will be good in the long run",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "govt": 0,
+            "scty": -5
         }
     },
     {
-        "question": "We need to focus internaly rather than externaly",
+        "question": "We should focus on internal affairs rather than external affairs",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -72,30 +72,76 @@ questions = [
         }
     },
     {
-        "question": "Capitalism is a supurior system",
+        "question": "Wintercrest should allign with other leftist regions",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "econ": 5,
+            "dipl": 1,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "More Parties with more ideas will be good in the long run",
+        "question": "We should create a new constitution",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
-            "scty": -5
+            "govt": -5,
+            "scty": 0
         }
     },
     {
-        "question": "We Should Establish a Military",
+        "question": "We need legislation limiting the amount of political parties",
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "We should temporaraly abolish the Governor of External Affairs",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -1,
+            "scty": 0
+        }
+    },
+    {
+        "question": "We should enforce leftist ideas in wintercrest",
+        "effect": {
+            "econ": 2,
+            "dipl": 0,
+            "govt": 2,
+            "scty": 1
+        }
+    },
+    {
+        "question": "We should radify an old version of the consitution",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 2,
+            "scty": 2
+        }
+    },
+    {
+        "question": "We should only have one party",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 1,
+            "scty": 2
+        }
+    },
+    {
+        "question": "We should not interact with other regions at all",
+        "effect": {
+            "econ": 0,
+            "dipl": -2,
             "govt": 0,
             "scty": 0
         }
     },
+
 ];
