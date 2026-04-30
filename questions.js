@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "We have too many parties",
+        "question": "Tiny Parties are a problem",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -54,12 +54,12 @@ questions = [
         }
     },
     {
-        "question": "Having many political parties will be good in the long run",
+        "question": "There should be few restrictionss on what parties are recognied.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": 5
         }
     },
     {
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "We need legislation limiting the amount of political parties",
+        "question": "We need legislation restricting what parties are recogniesed.",
         "effect": {
             "econ": 0,
             "dipl": 0,
