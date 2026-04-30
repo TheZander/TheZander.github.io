@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Chil",
+        "name": "Chill",
         "stats": {
             "econ": 90,
             "dipl": 50,
@@ -23,7 +23,7 @@ ideologies = [
             "econ": 70,
             "dipl": 50,
             "govt": 10,
-            "scty": 50
+            "scty": 30
         }
     },
     {
