@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Communism or Socialism are good ideoligies",
+        "question": "Communism or Socialism are good ideologies",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Capitalism is a good ideolegy ",
+        "question": "Capitalism is a good ideology ",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "There should be few restrictionss on what parties are recognied.",
+        "question": "There should be few restrictions on what parties are recognised.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Wintercrest should allign with other leftist regions",
+        "question": "Wintercrest should align with other leftist regions",
         "effect": {
             "econ": 5,
             "dipl": 1,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "We need legislation restricting what parties are recogniesed.",
+        "question": "We need legislation restricting what parties are recognised.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "We should temporaraly abolish the Governor of External Affairs",
+        "question": "We should temporarily abolish the Governor of External Affairs",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "We should radify an old version of the consitution",
+        "question": "We should ratify an old version of the constitution",
         "effect": {
             "econ": 0,
             "dipl": 0,
